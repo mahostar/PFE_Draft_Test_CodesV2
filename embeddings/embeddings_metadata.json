@@ -1,0 +1,12 @@
+[
+  {
+    "filename": "face_1",
+    "confidence": 0.8061948418617249,
+    "embedding_path": "embeddings\\face_1.npy"
+  },
+  {
+    "filename": "face_2",
+    "confidence": 0.7714386582374573,
+    "embedding_path": "embeddings\\face_2.npy"
+  }
+]
